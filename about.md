@@ -2,14 +2,19 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
-### More Information
+![Logo]({{site.baseurl}}//robotsupc-logo.png)
 
-A place to include any other types of information that you'd like to include about yourself.
+Associació Universitària Robots UPC
 
-### Contact me
+### Sobre nosotros
 
-[email@domain.com](mailto:email@domain.com)
+Somos una asociación de estudiantes que se dedica a estudiar y dar a conocer todo lo relacionado con el mundo de la impresión 3D, la robótica, la electrónica, el software libre y la tecnología en general.
+
+
+### Contacto
+
+[robotsupc@gmail.com](mailto:robotsupc@gmail.com)
