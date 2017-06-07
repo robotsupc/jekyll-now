@@ -9,7 +9,9 @@ name: Robots UPC
 description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/robotsupc/logo/raw/master/webp-60/robotsupc-logo.webp
+# oh safari
+#avatar: https://github.com/robotsupc/logo/raw/master/webp-60/robotsupc-logo.webp
+avatar: https://github.com/robotsupc/logo/raw/master/png/robotsupc-logo.png
 
 #
 # Flags below are optional
