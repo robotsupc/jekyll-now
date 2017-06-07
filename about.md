@@ -6,8 +6,6 @@ published: true
 ---
 
 
-![Logo]({{site.baseurl}}//robotsupc-logo.png)
-
 Associació Universitària Robots UPC
 
 ### Sobre nosotros
