@@ -11,7 +11,7 @@ Para nuestra sorpresa, no solo asistieron bastantes personas a pesar de la relat
 Por último, os dejamos con unas cuantas fotos del curso, que reflejan el buen ambiente que hubo y la creatividad de los alumnos con sus creaciones en 3D.
 Que paséis un buen verano y nos vemos en septiembre :D
 
-![]({{ site.baseurl }}/images/photo5985379601397951002.png) *Los profesores trabajando duro en su diseño*
+![]({{ site.baseurl }}/images/photo5985379601397951002.jpg) *Los profesores trabajando duro en su diseño*
 
 ![]({{ site.baseurl }}/images/photo5967792144112527629.jpg) *El primer dia, aprendiendo los conceptos básicos de OpenSCAD*
 
