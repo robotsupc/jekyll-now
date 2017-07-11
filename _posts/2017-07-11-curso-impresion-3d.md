@@ -3,7 +3,7 @@ published: true
 title: Curso de Impresión 3D
 ---
 
-La semana pasada, desde el lunes 3 de julio hasta el viernes 7, impartimos nuestro primer curso de diseño e impresión 3D como asociación, en colaboración con [JediUPC](jediupc.com).
+La semana pasada, desde el lunes 3 de julio hasta el viernes 7, impartimos nuestro primer curso de diseño e impresión 3D como asociación, en colaboración con [JediUPC](//jediupc.com).
 
 El curso tenía como objetivo que el alumno pudiera diseñar e imprimir algo por si mismo al final de la semana, con el uso de tecnologías totalmente libres: Empezando por el modelo en OpenSCAD, el slicing en Cura, y por último manejar la impresora como tal.
 
@@ -20,4 +20,4 @@ Que paséis un buen verano y nos vemos en Septiembre :D
 
 ![]({{ site.baseurl }}/images/photo5985379601397951013.jpg) *El pobre no pudo aguantar con tanto software libre...*
 
-El resto de fotos que hicimos se subirán en nuestra página de [Facebook](facebook.com/robotsupc) próximamente.
+El resto de fotos que hicimos se subirán en nuestra página de [Facebook](//facebook.com/robotsupc) próximamente.
