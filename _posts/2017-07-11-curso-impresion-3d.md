@@ -17,6 +17,6 @@ Que paséis un buen verano y nos vemos en septiembre :D
 
 ![]({{ site.baseurl }}/images/photo5978733740802812063.jpg) *Por fin, imprimiendo los diseños finales del curso*
 
-![]({{ site.baseurl }}/images/images/photo5985379601397951013.jpg) *El pobre no pudo aguantar con tanto software libre...*
+![]({{ site.baseurl }}/images/photo5985379601397951013.jpg) *El pobre no pudo aguantar con tanto software libre...*
 
 El resto de fotos que hicimos se subirán en nuestra página de Facebook próximamente.
