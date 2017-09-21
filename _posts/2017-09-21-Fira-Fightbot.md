@@ -8,7 +8,9 @@ un lugar en el que las asociaciones exponen sus actividades e intentan captar mi
 Como no poda ser menos, Robots UPC estuvimos presentes durante el evento y llevamos una sorpresa que impactó a 
 muchas de las personas que se acercaron a verlo.
 
-Organizamos una pequeña competición al estilo Mario Kart, llamado **Fightbot**, aquí puedes ver cómo ha quedado:
+Organizamos una pequeña competición al estilo Mario Kart, llamado **Fightbot**, con un robot **completamente diseñado y programado por nosotros**.
+
+Aquí puedes ver cómo ha quedado:
 
 {% include youtube.html id="2lzYGl3RAvY" %}
 
