@@ -15,8 +15,7 @@ Aquí puedes ver cómo ha quedado:
 {% include youtube.html id="2lzYGl3RAvY" %}
 
 
-Hemos sorteado un dron entre los participantes, y se han apuntado más de 100 personas al torneo.
-Un éxito total a nuestros ojos.
+Alcanzamos un éxito inesperado con más de 50 participantes entre los que sorteamos un dron.
 
 Aquí os dejamos algunas fotos:
 
