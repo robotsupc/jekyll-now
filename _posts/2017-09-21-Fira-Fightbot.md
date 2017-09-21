@@ -5,7 +5,7 @@ title: Fightbot - Fira d'Associacions
 
 Como muchos sabéis, el pasado miércoles 20 de septiembre se celebró la Fira d'Associacions,
 un lugar en el que las asociaciones exponen sus actividades e intentan captar miembros.
-Como no poda ser menos, Robots UPC estuvimos presentes durante el evento y llevamos una sorpresa que impactó a 
+Como no podía ser menos, Robots UPC estuvo presente durante el evento. Llevamos una sorpresa que impactó a 
 muchas de las personas que se acercaron a verlo.
 
 Organizamos una pequeña competición al estilo Mario Kart, llamado **Fightbot**, con un robot **completamente diseñado y programado por nosotros**.
