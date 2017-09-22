@@ -25,4 +25,4 @@ Si estás interesado en alguno de nuestros cursos o quieres te avisemos cuando e
 
 Si quieres ser miembro de Robots UPC, envíanos una breve presentación a [robotsupc+miembros@gmail.com](mailto:robotsupc+miembros@gmail.com). Recuerda que **no necesitas ninguna experiencia previa!**
 
-Si tienes cualquier otra duda, o te gustaría conocernos, envíanos un emai. a [robotsupc@gmail.com](mailto:robotsupc@gmail.com)
+Si tienes cualquier otra duda, o te gustaría conocernos, envíanos un email a [robotsupc@gmail.com](mailto:robotsupc@gmail.com)
