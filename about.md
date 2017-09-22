@@ -14,7 +14,7 @@ Somos una asociación de estudiantes que se dedica a estudiar y dar a conocer to
 
 Intentamos ser un grupo pequeño para agilizar el trabajo y evitar la desorganización. Sepas o no programar, diseñar en 3D, etc, **eres bienvenido!** Aquí todos estamos aprendiendo constantemente.
 
-Hacemos **cursos de [diseño e impresión en 3D](http://www.robotsupc.com/curso-impresion-3d/)**, y próximamente también de **robótica** durante la semana después de exámenes (en enero y junio/julio). También hacemos **competiciones**, como el [Fightbot](http://www.robotsupc.com/Fira-Fightbot/) que presentamos en la Fira d'Associacions.
+Hacemos **cursos** de [diseño e impresión en 3D](http://www.robotsupc.com/curso-impresion-3d/), y próximamente también de **robótica** durante la semana después de exámenes (en enero y junio/julio). También hacemos **competiciones**, como el [Fightbot](http://www.robotsupc.com/Fira-Fightbot/) que presentamos en la Fira d'Associacions.
 
 A nivel interno a parte de preparar los cursos y competiciones, hacemos proyectos varios, formación interna, curioseamos sobre de todo y también **imprimimos en 3D**.
 
