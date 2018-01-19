@@ -19,7 +19,7 @@ En este curso aprenderás a programar microcontroladores (Arduino), a controlar 
 
 ### [Diseño e impresión 3D]((http://blender.jediupc.com/))
 
-[![Curso-Robotica](https://jediupc.com/jedi-content/uploads/2017/05/diseny3d.png)](http://robotica.jediupc.com/)
+[![Curso-Robotica](https://jediupc.com/jedi-content/uploads/2017/05/diseny3d.png)](http://blender.jediupc.com/)
 
 En este curso aprenderás la base del diseño en 3D con el programa OpenScad, que es software libre. Aprenderás a diseñar multitud de cosas, desde objetos muy sencillos hasta objetos muy complejos que requieren de técnicas avanzadas. Aprenderás el funcionamiento de una impresora 3D, cómo calibrarla y utilizarla adecuadamente y sacarle el máximo partido. Además, te regalamos la pieza que diseñes impresa en 3D para que la tengas de recuerdo!
 Curso en colaboración con Jedi UPC.
