@@ -5,7 +5,7 @@ permalink: /cursos/
 published: true
 ---
 
-### [Curso de Robótica](http://robotica.jediupc.com/)
+## [Curso de Robótica](http://robotica.jediupc.com/)
 
 [![Curso-Robotica](https://jediupc.com/jedi-content/uploads/2018/01/robots.png)](http://robotica.jediupc.com/)
 
@@ -20,7 +20,7 @@ En este curso aprenderás a programar microcontroladores (Arduino), a controlar 
 
 ---
 
-### [Diseño e impresión 3D](http://blender.jediupc.com/)
+## [Diseño e impresión 3D](http://blender.jediupc.com/)
 
 [![Curso-3D](https://jediupc.com/jedi-content/uploads/2017/05/diseny3d.png)](http://blender.jediupc.com/)
 
