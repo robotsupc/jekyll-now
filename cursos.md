@@ -22,7 +22,7 @@ En este curso aprenderás a programar microcontroladores (Arduino), a controlar 
 
 ## [Diseño e impresión 3D](http://blender.jediupc.com/)
 
-[<img src="https://user-images.githubusercontent.com/4309591/41377855-3d4e9816-6f12-11e8-9123-d86106344428.jpeg" width=400/>](http://blender.jediupc.com/)
+<a href="http://blender.jediupc.com/">-<img src="https://user-images.githubusercontent.com/4309591/41377855-3d4e9816-6f12-11e8-9123-d86106344428.jpeg" width=400/></a>
 
 
 
