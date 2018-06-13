@@ -16,7 +16,7 @@ En este curso aprenderás a programar microcontroladores (Arduino), a controlar 
 * 75€ Estudiantes
 * 1 ECTS
 
-[Inscríbete ahora!](http://robotica.jediupc.com/)
+[Inscríbete ahora!](https://cursos.jediupc.com/login)
 
 ---
 
@@ -32,6 +32,6 @@ En este curso aprenderás la base del diseño en 3D con el programa OpenScad, qu
 * 75€ Estudiantes
 * 1 ECTS
 
-[Inscríbete ahora!](http://blender.jediupc.com/)
+[Inscríbete ahora!](https://cursos.jediupc.com/login)
 
 
